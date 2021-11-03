@@ -18,7 +18,7 @@
     "moment": "^2.24.0",
     "mongoose": "^5.4.9",
     "mongoose-paginate-v2": "^1.0.20",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
